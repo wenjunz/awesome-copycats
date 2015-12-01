@@ -16,7 +16,7 @@ local naughty   = require("naughty")
 local drop      = require("scratchdrop")
 local lain      = require("lain")
 local eminent   = require("eminent")
-local APW       = require("apw/widget")
+local APW = require("apw/widget")
 -- }}}
 
 -- {{{ Error handling
