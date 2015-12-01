@@ -6,7 +6,8 @@
 
 
 DESTDIR=~/.config/awesome
-PROJECT=copycat-killer/awesome-copycats
+#PROJECT=copycat-killer/awesome-copycats
+PROJECT=wenjunz/awesome-copycats
 
 # $(swap_dialog)
 define swap_dialog
